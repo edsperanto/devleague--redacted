@@ -1,0 +1,26 @@
+{
+  "name": "devleague--redacted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "express": "^4.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsperanto/devleague--redacted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsperanto/devleague--redacted/issues"
+  },
+  "homepage": "https://github.com/edsperanto/devleague--redacted#readme"
+}
